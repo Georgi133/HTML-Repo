@@ -1,0 +1,27 @@
+
+
+body {
+    background-color: lightgray;
+   
+}
+
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    overflow: hidden;
+}
+
+article {
+    margin-right: 5%;
+    border: 2px solid red;
+}
+
+
+aside {
+    grid-template-columns: 2;
+    display: inline-block;
+    text-align: left;
+}
+
+
+

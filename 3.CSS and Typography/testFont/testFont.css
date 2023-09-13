@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Mine';
+    src: url('DancingScript-VariableFont_wght.ttf');
+}
+
+p {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: "Mine";
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: justify;
+    text-indent: 15px;
+
+}
+
+.example4 {
+    font-size: 21px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-transform: uppercase;
+    cursor: all-scroll;
+    user-select: none;
+    outline:  10px solid red;
+}
+
+
+

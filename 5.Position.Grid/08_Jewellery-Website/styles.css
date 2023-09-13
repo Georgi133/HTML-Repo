@@ -1,0 +1,31 @@
+main img {
+    position: relative;
+}
+
+section {
+    position: absolute;
+    top: 250px;
+    left: 180px;
+}
+
+h3 {
+    font-size: 16px;
+    margin: 0px;
+    top: 50px;
+    left: 8px;
+}
+
+span {
+    padding-left: 3px;
+    color: gray;
+    font-size: 14px;
+}
+
+
+div {
+    position: relative;
+    top: 50px;
+    left: 8px;
+    transform: translate(0px, -100px);
+}
+

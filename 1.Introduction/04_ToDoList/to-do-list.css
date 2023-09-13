@@ -1,0 +1,58 @@
+
+.my-list {
+    margin: 0 auto;
+    padding: 8px 24px;
+    width: 500px;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    background: #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    }
+
+
+    .my-list ol {
+        margin: 12px;
+        }
+    
+    .my-list p {
+        text-align: center;
+        }
+
+    
+    #secondaryTitle {
+        background-color: black;
+        color: green;
+    }
+
+    .item.first {
+        background-color: greenyellow; 
+        color: black;
+    }
+
+    .item {
+        background-color: aqua;
+        color: brown;
+    }
+
+    .item .orderedPar {
+        color: mediumslateblue;
+    }
+
+    .item .nestedList .galosh{
+        color: fuchsia;
+    }
+
+
+
+       
+    
+
+
+            
+
+
+
+
+
+
+            

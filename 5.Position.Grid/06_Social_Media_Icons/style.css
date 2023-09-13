@@ -1,0 +1,47 @@
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    position: relative;
+    height: 740px;
+}
+ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    list-style-type: none;
+    height: 40px;
+    display: grid;
+    grid-template-columns: repeat(5, 40px);
+    gap: 12px;
+}
+
+li {
+    position: relative;
+}
+
+a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+i:hover {
+    opacity: 0.2;
+}
+
+

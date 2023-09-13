@@ -1,0 +1,37 @@
+.block {
+    background-color: orange;
+}
+
+h2 {
+    background-color: pink;
+}
+
+label {
+    background-color: green;
+}
+
+.inline {
+    background-color: red;
+}
+
+.inline-block label {
+    background-color: blue;
+    display: inline-block;
+}
+
+.inline-block .iblock {
+    display: inline-block;
+    background-color: lightcoral;
+}
+
+.inline2 {
+    background-color: brown;
+    border: 10px solid black;
+    border-radius: 13px;
+    color: azure;
+    text-shadow: 5px black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+

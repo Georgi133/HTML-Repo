@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    height: 360px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+div {
+    background-color: black;
+    width: 460px;
+    position: relative;
+    border-radius: 6px;
+}
+
+div img {
+    width: 434px;
+    text-align: center;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+section {
+    display: flex;
+    gap: 12px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

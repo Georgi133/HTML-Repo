@@ -1,0 +1,28 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    margin: 12px;
+
+}
+
+body {
+    height: 716px;
+    width: 100%;
+    position: relative;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    position: absolute;
+    top: 60px;
+    left: 180px;
+    color: antiquewhite;
+    transform: translate(490px , 90px);
+    text-shadow: 1px 1px 20px black;
+}

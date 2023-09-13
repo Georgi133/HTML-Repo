@@ -1,0 +1,21 @@
+.item {
+    width: 400px;
+    background-color: #dddddd;
+    border: 1px solid #000000;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+    }
+
+
+    .left {
+        text-align: left;
+        }
+
+
+        .size {
+        font-size: 18px;
+        }

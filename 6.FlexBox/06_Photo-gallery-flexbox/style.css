@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+section {
+    width: 75vw;
+    margin: 70px auto;
+}
+
+
+/* .gallery {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    height: 750px;
+} */
+
+.first, .second, .third {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    align-items: center;
+}
+
+ul {
+    margin-bottom: 24px;
+}
+
+div {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid black;
+    padding: 34px 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

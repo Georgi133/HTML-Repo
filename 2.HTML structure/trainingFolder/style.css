@@ -1,0 +1,13 @@
+.heado {
+    background-color: gray;
+}
+
+footer {
+    background-color: lightblue;
+    color:blueviolet;
+    border-color: brown;
+}
+
+#logo:hover {
+	color:cornflowerblue;
+}
